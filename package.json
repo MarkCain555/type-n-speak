@@ -11,6 +11,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"gh-pages": "^1.2.0",
-		"lodash": "~4.17.14"
+		"lodash": "~4.17.21"
 	}
 }
